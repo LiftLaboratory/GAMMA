@@ -19,3 +19,10 @@ GAMMA is a phenotyping system for floating aquatic plants that takes continuous 
 
 </p>
 </details>
+
+### 3D Printing Files
+[Arduino platform](https://github.com/LiftLaboratory/GAMMA/blob/cf078936a7a90bf7f1a513ab7467692c694ebb73/arduino_platform%20v17.stl)
+[Breadboard case](https://github.com/LiftLaboratory/GAMMA/blob/cf078936a7a90bf7f1a513ab7467692c694ebb73/breadboard_case%20v20.stl)
+[Controller case](https://github.com/LiftLaboratory/GAMMA/blob/cf078936a7a90bf7f1a513ab7467692c694ebb73/controller_case%20v7.stl)
+[Power supply case](https://github.com/LiftLaboratory/GAMMA/blob/cf078936a7a90bf7f1a513ab7467692c694ebb73/power_supply_case%20v8.stl)
+
