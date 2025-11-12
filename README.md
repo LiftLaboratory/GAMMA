@@ -2,6 +2,10 @@
 ## About:
 GAMMA is a phenotyping system for floating aquatic plants that takes continuous mass measurements of growing plant colonies.
 
+<a href="url"><img src="https://github.com/LiftLaboratory/GAMMA/blob/2aed2129a47a88a6033d52c1f88bd0b4a3c8150a/Whole_system.jpeg" align="middle" height="432" width="324" ></a>
+<a href="url"><img src="https://github.com/LiftLaboratory/GAMMA/blob/2aed2129a47a88a6033d52c1f88bd0b4a3c8150a/Arm_raising.jpeg" align="middle" height="224" width="332" ></a>
+<a href="url"><img src="https://github.com/LiftLaboratory/GAMMA/blob/2aed2129a47a88a6033d52c1f88bd0b4a3c8150a/Full_basket.jpeg" align="middle" height="432" width="324" ></a>
+
 ## Assembly
 ### Wiring Diagrams
 <details><summary>Full Wiring Diagram</summary>
